@@ -1,0 +1,4 @@
+#Mon Oct 31 03:00:57 WIB 2022
+base.0=/Users/ayash/StudioProjects/pokedex_coba2/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
